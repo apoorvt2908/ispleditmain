@@ -1,0 +1,1184 @@
+[
+  {
+    "code": "SUC200",
+    "slug": "location",
+    "data": [
+      {
+        "id": "1",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Lal Bahadur Shastri International Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "VNS",
+          "isLocation": true,
+          "authorised": "airport",
+          "external_link": "https://www.aai.aero/en/airports/varanasi"
+        }
+      },
+      {
+        "id": "1",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Visakhapatnam International Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "VTZ",
+          "isLocation": true,
+          "authorised": "airport",
+          "external_link": "https://www.aai.aero/en/airports"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Pune international Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "PNQ",
+          "isLocation": true,
+          "authorised": "airport",
+          "external_link": "https://www.aai.aero/en/airports/pune"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Birsa Munda Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "IXR",
+          "isLocation": true,
+          "authorised": "airport",
+          "external_link": "https://www.aai.aero/en/airports"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Chennai International Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "MAA",
+          "isLocation": true,
+          "authorised": "airport",
+          "external_link": "https://www.aai.aero/en/airports"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Coimbatore International Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "CJB",
+          "isLocation": true,
+          "authorised": "airport",
+          "external_link": "https://www.aai.aero/en/airports"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Jay Prakash Narayan Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "PAT",
+          "isLocation": true,
+          "authorised": "airport",
+          "external_link": "https://www.aai.aero/en/airports"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Dabolim Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "GOI",
+          "isLocation": true,
+          "authorised": "airport",
+          "external_link": "https://www.aai.aero/en/airports"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Biju Patnaik International Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "BBI",
+          "isLocation": true,
+          "authorised": "airport",
+          "external_link": "https://www.aai.aero/en/airports"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Netaji Subhash Chandra Bose International Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "CCU",
+          "isLocation": true,
+          "authorised": "airport",
+          "external_link": "https://www.aai.aero/en/airports/kolkata"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Devi Ahilya Bai Holkar Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "IDR",
+          "isLocation": true,
+          "authorised": "airport",
+          "external_link": "https://www.aai.aero/en/airports"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Swami Vivekananda Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "RPR",
+          "isLocation": true,
+          "authorised": "airport",
+          "external_link": "https://www.aai.aero/en/airports"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Vijayawada Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "VGA",
+          "isLocation": true,
+          "authorised": "airport",
+          "external_link": "https://www.aai.aero/en/airports/vijayawada"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Bagdogra International Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "IXB",
+          "isLocation": true,
+          "authorised": "airport",
+          "external_link": "https://www.aai.aero/en/airports"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Chhatrapati Shivaji Maharaj international Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon390.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon390.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "BOM",
+          "isLocation": true,
+          "authorised": "adani",
+          "external_link": "https://csmia.adaniairports.com/"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Lokpriya Gopinath Bordoloi international Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon5.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon5.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "GAU",
+          "isLocation": true,
+          "authorised": "adani",
+          "external_link": "https://www.adani.com/lgbia-guwahati-airport"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Ahmedabad international Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon1.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon1.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "  AMD",
+          "isLocation": true,
+          "authorised": "adani",
+          "external_link": "https://www.adani.com/svpia-ahmedabad-airport"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Chaudhary Charan Singh international Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon10.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon10.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "  LKO",
+          "isLocation": true,
+          "authorised": "adani",
+          "external_link": "https://www.adani.com/ccsia-lucknow-airport"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Jaipur international Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon7.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon7.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "  JAI",
+          "isLocation": true,
+          "authorised": "adani",
+          "external_link": "https://www.adani.com/jaipur-airport"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Indira Gandhi international Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon4.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon4.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "  DEL",
+          "isLocation": true,
+          "authorised": "gandhi",
+          "external_link": "https://www.newdelhiairport.in/digiyatra"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Rajiv Gandhi international Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon9.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon9.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "  HYD",
+          "isLocation": true,
+          "authorised": "gandhi",
+          "external_link": "https://gmrgroup.in/airports/hyderabad-international-airport/"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Manohar International Airport (MOPA)",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon11.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon11.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "  GOX",
+          "isLocation": true,
+          "authorised": "gandhi",
+          "external_link": "https://www.gmrgroup.in/goa/"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Cochin international Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon3.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon3.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "  COK",
+          "isLocation": true,
+          "authorised": "cochin",
+          "external_link": "https://www.cial.aero/"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Kempegowda international Airport ",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon2.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon2.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "current",
+          "port": "  BLR",
+          "isLocation": true,
+          "authorised": "cochin",
+          "external_link": "https://www.bengaluruairport.com/"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Chandigarh Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "upcomming",
+          "port": "IXC",
+          "isLocation": true,
+          "authorised": "airport",
+          "external_link": "#"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Srinagar International Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/icon6.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "upcomming",
+          "port": "SXR",
+          "isLocation": true,
+          "authorised": "airport",
+          "external_link": "#"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Mangaluru International Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/Untitled-12.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/Untitled-12.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "upcomming",
+          "port": "IXE",
+          "isLocation": true,
+          "authorised": "airport",
+          "external_link": "#"
+        }
+      },
+      {
+        "id": "2",
+        "guid": "0b081938-6619-4c62-891a-7d974915ed3b",
+        "networkId": "37",
+        "title": "Thiruvananthapuram International Airport",
+        "content": "",
+        "keywords": "",
+        "postingDate": "2024-05-16",
+        "startDate": null,
+        "endDate": null,
+        "status": "1",
+        "meta": {
+          "title": "",
+          "description": "",
+          "keywords": ""
+        },
+        "media": [
+          {
+            "type": "image",
+            "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/Untitled-13.webp",
+            "caption": null,
+            "posterImage": null,
+            "extension": "jpg"
+          }
+        ],
+        "featuredMedia": {
+          "type": "image",
+          "cdnPath": "https://d2r32amryjykij.cloudfront.net/images/content-images/Untitled-13.webp",
+          "caption": null,
+          "posterImage": null,
+          "extension": "jpg"
+        },
+        "taxonomy_id": "1",
+        "url": "",
+        "metaInfo": {
+          "category": "upcomming",
+          "port": "TRV",
+          "isLocation": true,
+          "authorised": "airport",
+          "external_link": "#"
+        }
+      }
+    ]
+  }
+]

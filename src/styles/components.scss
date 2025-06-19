@@ -1,0 +1,208 @@
+@charset "utf-8";
+@use 'vendors/bootstrap.min';
+/* Begin core files */
+@import "custom-style/core/variables";
+@import "custom-style/core/mixins";
+@import "custom-style/core/typography";
+
+/* End core files */
+
+/* Begin other files */
+@import "custom-style/containers/header";
+@import "custom-style/containers/footer";
+@import "custom-style/containers/navigationMain";
+@import "custom-style/containers/navigationResp";
+@import "custom-style/containers/navigation";
+@import "custom-style/containers/cta";
+@import "custom-style/containers/cta-new";
+@import "custom-style/containers/banner";
+
+/* Begin elements files */
+@import "custom-style/containers/elements/elem1";
+@import "custom-style/containers/elements/elem2";
+@import "custom-style/containers/elements/elem3";
+@import "custom-style/containers/elements/elem4";
+@import "custom-style/containers/elements/elem5";
+@import "custom-style/containers/elements/elem6";
+@import "custom-style/containers/elements/elem7";
+@import "custom-style/containers/elements/elem8";
+@import "custom-style/containers/elements/elem9";
+@import "custom-style/containers/elements/elem10";
+@import "custom-style/containers/elements/elem11";
+@import "custom-style/containers/elements/elem12";
+@import "custom-style/containers/elements/elem13";
+@import "custom-style/containers/elements/elem14";
+@import "custom-style/containers/elements/elem15";
+@import "custom-style/containers/elements/elem16";
+@import "custom-style/containers/elements/elem17";
+@import "custom-style/containers/elements/elem18";
+
+/* Begin helper files */
+@import "custom-style/helpers/basic";
+@import "custom-style/helpers/buttons";
+@import "custom-style/helpers/menuToggle";
+@import "custom-style/helpers/social";
+@import "custom-style/helpers/sectionHeader";
+
+.generic-form {
+    .form-group {
+        margin-bottom: 20px;
+
+        label {
+            color: var(--blue5);
+            @include font-size(16);
+            @include primaryFont(400);
+        }
+
+        .form-control {
+            border: none;
+            border-bottom: 1px solid rgba(var(--grey6), 0.7);
+            outline: none;
+            box-shadow: none;
+            @include border-radius(0);
+
+            &:focus {
+                border-color: var(--orange);
+            }
+        }
+
+        .help-block {
+            color: var(--error);
+            margin-bottom: 10px;
+            @include font-size(12);
+            display: none;
+        }
+
+        &.has-error {
+            label {
+                color: var(--error);
+            }
+
+            .help-block {
+                display: block;
+            }
+        }
+    }
+
+    .chosen-container {
+        &.chosen-container-single {
+            width: 100% !important;
+
+            .chosen-single {
+                border: none;
+                border-bottom: 1px solid rgba(var(--grey6), 0.7);
+                background: none;
+                box-shadow: none;
+                @include border-radius(0);
+                height: 38px;
+                @include flexbox;
+                @include align-items(center);
+
+                span {
+                    @include font-size(16);
+                    @include primaryFont(400);
+                    color: #212529;
+                }
+
+                div b {
+                    background: url(chosen-sprite.png) no-repeat 0px 8px;
+                }
+            }
+        }
+    }
+}
+
+.c-global_content {
+    &__heading1 {
+        @include font-size(30);
+        @include primaryFont(300);
+        line-height: 1.4;
+        color: var(--blue5);
+        margin-bottom: 10px;
+
+        @include mq(desktop-wide) {
+            @include font-size(36);
+        }
+
+        @include mq(desktop-wide-max) {
+            @include font-size(42);
+        }
+    }
+
+    &__heading2 {
+        @include font-size(20);
+        @include primaryFont(700);
+        color: var(--orange);
+        margin-bottom: 30px;
+        line-height: 1.4;
+
+        @include mq(desktop-wide) {
+            @include font-size(24);
+        }
+
+        @include mq(desktop-wide-max) {
+            @include font-size(30);
+        }
+    }
+
+    &__heading3 {
+        @include font-size(22);
+        @include primaryFont(700);
+        color: var(--orange);
+        line-height: 1.4;
+        margin-bottom: 30px;
+
+        @include mq(desktop-wide) {
+            @include font-size(28);
+        }
+
+        @include mq(desktop-wide-max) {
+            @include font-size(30);
+        }
+    }
+
+    &__para,
+    p,
+    li {
+        @include font-size(16);
+        @include primaryFont(300);
+        color: var(--greyishBlue);
+        line-height: 1.4;
+        margin-bottom: 30px;
+
+        @include mq(desktop-wide) {
+            @include font-size(22);
+            line-height: 1.7;
+        }
+
+        @include mq(desktop-wide-max) {
+            @include font-size(24);
+
+        }
+    }
+
+    li {
+        list-style: disc;
+        margin-left: 20px;
+    }
+}
+
+.generic_heading_mainSec {
+    @include font-size(36);
+    @include primaryFont(300);
+    color: var(--orange);
+    line-height: 1.4;
+    margin-bottom: 5px;
+
+    @include mq(desktop-wide) {
+        @include font-size(42);
+    }
+
+    @include mq(desktop-wide-max) {
+        @include font-size(60);
+    }
+
+    &.black {
+        color: var(--blue2);
+    }
+}
